@@ -1,0 +1,19 @@
+.bn3637 {
+    display:flex;
+    justify-content:flex-end;
+    padding: 0.7rem 2rem;
+    font-weight: 700;
+    font-size: 18px;
+    text-align:right;
+    text-decoration:dotted;
+    color: #fff;
+    backface-visibility: hidden;
+    border: 0.3rem solid transparent;
+    border-radius: 3rem;
+  }
+  .bn3637 {
+    border-color: transparent;
+    transition: background-color 0.3s ease-in-out;
+  }
+    
+  
